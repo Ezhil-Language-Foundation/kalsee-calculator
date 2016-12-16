@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="450dip"
+    tools:context="com.urbantamil.kalsee.KalseeActivity"
+    android:orientation="vertical">
+
+    <Spinner
+        android:fontFamily="Catamaran_Regular"
+        android:layout_width="match_parent"
+        android:layout_height="50dip"
+        android:id="@+id/spinner" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="200dip"
+        android:id="@+id/scrollView" >
+
+        <TextView
+            android:fontFamily="Catamaran_Regular"
+            android:layout_width="match_parent"
+            android:layout_height="200dip"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Large Text"
+            android:id="@+id/textView" />
+    </ScrollView>
+
+    <Button
+        android:fontFamily="Catamaran_Regular"
+        android:id="@+id/tamilfont_view_dismiss"
+        android:layout_width="match_parent"
+        android:text="@string/tamil_OK"
+        android:layout_height="wrap_content" />
+</LinearLayout>

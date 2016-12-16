@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="kalsee">கால்சீ</string>
+    <string name="calculator">கணிப்பான்</string>
+    <string name="app_name">கால்சீ - தமிழில் கணக்கிட</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="ettu">எட்டு</string>
+    <string name="onpathu">ஒன்பது</string>
+    <string name="pesu">பேசு</string>
+    <string name="kalsee_calc_descr">கால்சீ - தமிழில் கணக்கிட கணிப்பான்</string>
+    <string name="tamilfont_cinderella_story">எழில் - ஒரு தமிழ் நிரலாக்க மொழி</string>
+    <string name="tamil_OK">சரி</string>
+    <string name="kalsee_audio_settingsupdate">ஆடியோ அமைப்புகளை மேம்படுத்தப்பட்டது</string>
+    <string name="talkback">பேசும் வடிவில் செயல்படு</string>
+    <string name="audio_mute">பேசாதே வடிவில் செயல்படு</string>
+    <string name="short_press_button">வழக்கமான அமைப்பு கொள்</string>
+    <string name="set_long_press_mode">கண் பார்வை உதவி அமைப்பு கொள்</string>
+    <string name="change_fonts">எழுத்துருக்கள் மாற்று</string>
+    <string name="long_press_mode">கண் பார்வை உதவி அமைப்பு கொள்</string>
+    <string name="kalsee_ok">சரி</string>
+    <string name="credits">செயலி பற்றி</string>
+    <string name="credits_message">தமிழ் பேசும் கால்குலேட்டர். Simple Tamil Talkback calculator for blind users.
+        <b>(C) 2016 எழில் மொழி அறக்கட்டளை.</b>
+        மூல நிரல்: <b>ஓபன் தமிழ்</b> கொண்டு வடிவமைக்கபட்டது;
+        மூல குரல் - <b>பிரியா</b>;
+        படங்கள் : material.io என்ற தளம் மட்டும் flaticon என்பவையால் வழங்க பட்டது;
+        எழுத்துருக்கள்: நாம் பயன்படுத்திய எழுத்துரு \'Catamaran\' பிரியா ரவிச்சந்திரன், மட்டும் \'இல. சுந்தரம்\' பேரா. இல சுந்தரம் அவர்களால் வழங்கப்பட்டது.
+        <b>வாழ்க தமிழ், வளர்க மனிதம்.</b></string>
+    <string name="calculation_failed_alert">கணக்கீடு முடிக்கவில்லை</string>
+    <string name="cannot_calculate">கணக்கிட முடியவில்லை</string>
+    <string name="error_reason">பிழை காரணம் :</string>
+    <string name="android_version_doesnthavefunction">உங்கள் ஆண்ட்ராய்டு கருவியில் இந்த வசதி இல்லை.</string>
+    <string name="font_updated">எழுத்துரு மேம்படுத்தப்பட்டது [</string>
+    <string name="tanglish_talkback">Talkback mode</string>
+    <string name="tanglish_quiet_mode">Quiet mode</string>
+    <string name="usual_short_press_mode">Usual short-press mode</string>
+    <string name="tanglish_blind_user_mode">Visually impaired user mode</string>
+    <string name="tanglish_font_update">Font setting</string>
+    <string name="tanglish_credits">About Kalsee</string>
+    <string name="tamil_menu">தமிழில் மெனு காட்டு</string>
+    <string name="english_menu">ஆங்கிலத்தில் மெனு காட்டு</string>
+    <string name="restart_activity">உங்கள் மெனு மாற்றம் செய்வதற்கு இப்போது உங்கள் செயலி மூடி தானே மீண்டும் திறக்கப்படும்..</string>
+    <string name="tanglish_restart_activity">Using Tamil menu. App will close and automatically restart for settings to take effect.</string>
+    <string name="empty_history">வரலாறு காலியாக உள்ளது</string>
+    <string name="tamil_CLOSE">மூடு</string>
+    <string name="history_select_any">பழைய கணக்கை வரலாற்றில் இருந்து எடுக்கவும்</string>
+    <string name="history_selected">கணிதம்  தேர்ந்தெடுத்தாச்சு</string>
+</resources>

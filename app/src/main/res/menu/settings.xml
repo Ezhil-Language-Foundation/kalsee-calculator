@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_audio_on"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:title="@string/talkback"
+        android:icon="@drawable/ic_volume_up_black_24dp"/>
+    <item
+        android:id="@+id/menu_audio_off"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:title="@string/audio_mute"
+        android:icon="@drawable/ic_volume_off_black_24dp"/>
+
+    <item
+        android:id="@+id/menu_short_press_mode"
+        android:orderInCategory="100"
+        app:showAsAction="collapseActionView"
+        android:title="@string/short_press_button"
+        android:icon="@android:drawable/ic_menu_preferences"/>
+    <item
+        android:id="@+id/menu_long_press_mode"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:title="@string/long_press_mode"
+        android:icon="@drawable/ic_accessible_black_24dp"/>
+    <item
+        android:id="@+id/menu_font_name"
+        android:orderInCategory="100"
+        app:showAsAction="collapseActionView"
+        android:title="@string/change_fonts"
+        android:icon="@android:drawable/ic_menu_preferences"/>
+    <item
+        android:id="@+id/menu_tanglish"
+        android:orderInCategory="100"
+        app:showAsAction="collapseActionView"
+        android:title="@string/english_menu"
+        android:icon="@android:drawable/ic_menu_preferences"/>
+    <item
+        android:id="@+id/menu_credits"
+        android:orderInCategory="100"
+        app:showAsAction="collapseActionView"
+        android:title="@string/credits"
+        android:icon="@android:drawable/ic_menu_preferences"/>
+</menu>
